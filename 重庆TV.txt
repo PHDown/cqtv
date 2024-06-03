@@ -219,6 +219,7 @@ One,https://phdown.serv00.net/Smartv.php?id=One_mega
 
 
 新闻频道,#genre#
+TVBS,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv073
 TVBS HD,https://phdown.serv00.net/litv.php?id=4gtv-4gtv073
 TVBS新闻台,https://phdown.serv00.net/litv.php?id=4gtv-4gtv072
 中天新闻,https://phdown.serv00.net/litv.php?id=4gtv-4gtv009
@@ -243,6 +244,29 @@ TVBS新闻台,https://phdown.serv00.net/litv.php?id=4gtv-4gtv072
 华视,https://phdown.serv00.net/litv.php?id=4gtv-4gtv041
 民视台湾台,https://phdown.serv00.net/litv.php?id=4gtv-4gtv156
 
+TVBS新闻台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv072
+中天新闻,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv009
+中天亚洲台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv109
+台视新闻,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv051
+华视新闻,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv052
+台视财经,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv056
+中视新闻,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv074
+非凡新闻,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv010
+镜新闻,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv075
+东森新闻,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv152
+东森财经新闻,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv153
+半岛新闻,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-ftv10
+民视新闻台,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-ftv13
+民视台湾台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv001
+寰宇新闻台,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn14
+寰宇新闻台湾台,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn15
+台视,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv066
+民视,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv002
+民视,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv155
+中视,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv040
+华视,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv041
+民视台湾台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv156
+
 影视频道,#genre#
 影迷數位電影台,https://phdown.serv00.net/litv.php?id=4gtv-4gtv011
 AMC电影台,https://phdown.serv00.net/litv.php?id=4gtv-4gtv017
@@ -259,6 +283,20 @@ CATCHPLAY电影台,https://phdown.serv00.net/litv.php?id=4gtv-4gtv076
 公视戏剧,https://phdown.serv00.net/litv.php?id=4gtv-4gtv042
 龙华戏剧,https://phdown.serv00.net/litv.php?id=litv-longturn18
 
+影迷數位電影台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv011
+AMC电影台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv017
+CATCHPLAY电影台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv076
+靖天电影台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv061
+龙华电影,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn03
+采昌影剧,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv049
+民视影剧,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-ftv09
+龙华经典,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn21
+中视经典,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv080
+台湾戏剧台,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn22
+靖洋戏剧台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv045
+靖天戏剧台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv058
+公视戏剧,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv042
+龙华戏剧,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn18
 体育频道,#genre#
 智林体育台,https://phdown.serv00.net/litv.php?id=4gtv-4gtv101
 时尚运动X,https://phdown.serv00.net/litv.php?id=4gtv-4gtv014
@@ -273,6 +311,18 @@ CATCHPLAY电影台,https://phdown.serv00.net/litv.php?id=4gtv-4gtv076
 博斯无限2,https://phdown.serv00.net/litv.php?id=litv-longturn13
 TRACE SPORTS STARS,https://phdown.serv00.net/litv.php?id=4gtv-4gtv077
 
+智林体育台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv101
+时尚运动X,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv014
+靖天育乐台,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv062
+博斯魅力,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn04
+博斯高球1,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn05
+博斯高球2,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn06
+博斯运动1,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn07
+博斯运动2,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn08
+博斯网球,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn09
+博斯无限,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn10
+博斯无限2,http://debian.52sw.top:678/play/tz/litv2.php?id=litv-longturn13
+TRACE SPORTS STARS,http://debian.52sw.top:678/play/tz/litv2.php?id=4gtv-4gtv077
 综艺频道,#genre#
 視納華仁紀實頻道,https://phdown.serv00.net/litv.php?id=4gtv-4gtv013
 中视菁采,https://phdown.serv00.net/litv.php?id=4gtv-4gtv064
